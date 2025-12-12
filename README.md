@@ -8,4 +8,4 @@
 
 ## 中间件架构
 ### [Redis]()
--   [缓存一致性](https://www.yuque.com/an.king/essay/gvmfh6new7yxbd0c?singleDoc)
+-   [缓存一致性（18792字）](https://www.yuque.com/an.king/essay/gvmfh6new7yxbd0c?singleDoc)
