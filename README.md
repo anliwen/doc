@@ -1,5 +1,5 @@
 <p align="center"><img alt="logo" src="./res/logo.webp" width="100" height="100"></p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">互联网常见解决方案、架构、原理</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">互联网常见：方案、架构、原理</h1>
 <h4 align="center">@author anliwen</h4>
 <p align="center">
     <a href="https://github.com/anliwen/key"><img src="https://img.shields.io/badge/Prism-v1.0.GA-brightgreen.svg" alt="Prism Version"></a>
