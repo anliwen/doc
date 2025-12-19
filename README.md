@@ -19,3 +19,6 @@
 -   [消费者最佳实践（8777字）](https://www.yuque.com/an.king/essay/gdi4bx7mgukgzkpb?singleDoc)
 -   [消息消费原理（11350字）](https://www.yuque.com/an.king/essay/om2k6618ygqnl37s?singleDoc)
 -   [负载均衡原理（5773字）](https://www.yuque.com/an.king/essay/sudztkzw3zim0y71?singleDoc)
+-   [广播消息原理（5183字）](https://www.yuque.com/an.king/essay/elu939e2z3wut6bi?singleDoc)
+-   [可靠消息原理（4415字）](https://www.yuque.com/an.king/essay/rs135ogv1ald3xeu?singleDoc)
+## 有问有答(10股文)
