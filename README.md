@@ -8,7 +8,9 @@
 
 ## 中间件架构
 ### [MySQL]()
+-   [索引原理（26736字）](https://www.yuque.com/an.king/essay/index?singleDoc)
 -   [锁机制（30342字）](https://www.yuque.com/an.king/essay/izye4s?singleDoc)
+-   [乐观锁与悲观锁（4302字）](https://www.yuque.com/an.king/essay/msgt75x4nrzkd2a9?singleDoc)
 ### [Redis]()
 -   [缓存一致性（19084字）](https://www.yuque.com/an.king/essay/gvmfh6new7yxbd0c?singleDoc)
 -   [缓存热点（2040字）](https://www.yuque.com/an.king/essay/fiamndhf94vmk832?singleDoc)
