@@ -21,4 +21,12 @@
 -   [负载均衡原理（5773字）](https://www.yuque.com/an.king/essay/sudztkzw3zim0y71?singleDoc)
 -   [广播消息原理（5183字）](https://www.yuque.com/an.king/essay/elu939e2z3wut6bi?singleDoc)
 -   [可靠消息原理（4415字）](https://www.yuque.com/an.king/essay/rs135ogv1ald3xeu?singleDoc)
+-   [消息过滤原理（7701字）](https://www.yuque.com/an.king/essay/wzyrggrrt7wee615?singleDoc)
+-   [顺序消息原理（7097字）](https://www.yuque.com/an.king/essay/clwk03v4vk9x1hht?singleDoc)
+-   [事务消息原理（6325字）](https://www.yuque.com/an.king/essay/nfe7gk7ndv08oexx?singleDoc)
+-   [延迟消息原理（6953字）](https://www.yuque.com/an.king/essay/osb1rp58oq4kgi6x?singleDoc)
+-   [幂等消息原理（10317字）](https://www.yuque.com/an.king/essay/uzw76gwgaavcgdog?singleDoc)
+-   [消息丢失问题（9911字）](https://www.yuque.com/an.king/essay/drr2oqbpddrn8eru?singleDoc)
+-   [积压消息原理（9164字）](https://www.yuque.com/an.king/essay/yd3sew9e3fey83wg?singleDoc)
+
 ## 10股文
