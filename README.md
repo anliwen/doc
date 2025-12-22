@@ -8,11 +8,11 @@
 
 
 ## JDK
-### [基础]()
+### 基础
 -   [位运算（6074字）](https://www.yuque.com/an.king/essay/qyl899dizxlwf7d6?singleDoc)
 
 ## 中间件架构
-### [MySQL]()
+### MySQL
 -   [SQL 执行架构（499字）](https://www.yuque.com/an.king/essay/hcacwp?singleDoc)
 -   [InnoDB 行格式（5625字）](https://www.yuque.com/an.king/essay/nit1wa?singleDoc)
 -   [InnoDB 数据页（5956字）](https://www.yuque.com/an.king/essay/suhvwp?singleDoc)
@@ -26,7 +26,7 @@
 -   [undo日志（18378字）](https://www.yuque.com/an.king/essay/bkzfvc?singleDoc)
 -   [锁机制（30342字）](https://www.yuque.com/an.king/essay/izye4s?singleDoc)
 -   [乐观锁与悲观锁（4302字）](https://www.yuque.com/an.king/essay/msgt75x4nrzkd2a9?singleDoc)
-### [Redis]()
+### Redis
 -   [架构演进（5740字）](https://www.yuque.com/an.king/essay/kaob7irh92gc2bvq?singleDoc)
 -   [数据类型（13682字）](https://www.yuque.com/an.king/essay/tg1q3orayez0h7cb?singleDoc)
 -   [底层数据结构（16119字）](https://www.yuque.com/an.king/essay/rxadwbpzepgn1rz7?singleDoc)
@@ -49,7 +49,7 @@
 -   [规范与安全（3118字）](https://www.yuque.com/an.king/essay/ngds8gqyan3b56h8?singleDoc)
 -   [lua语法（2890字）](https://www.yuque.com/an.king/essay/tgg0u4?singleDoc)
 -   [接口防刷（798字）](https://www.yuque.com/an.king/essay/ffddnv?singleDoc)
-### [RocketMQ]()
+### RocketMQ
 -   [生产者最佳实践（8495字）](https://www.yuque.com/an.king/essay/ii9ydmam6p8itw8g?singleDoc)
 -   [消费者最佳实践（8777字）](https://www.yuque.com/an.king/essay/gdi4bx7mgukgzkpb?singleDoc)
 -   [消息消费原理（11350字）](https://www.yuque.com/an.king/essay/om2k6618ygqnl37s?singleDoc)
@@ -65,10 +65,10 @@
 -   [积压消息原理（9164字）](https://www.yuque.com/an.king/essay/yd3sew9e3fey83wg?singleDoc)
 
 ## 分布式
-### [分布式理论]()
+### 分布式理论
 -   [Base 理论（744字）](https://www.yuque.com/an.king/essay/rvssll?singleDoc)
 -   [CAP 理论（2363字）](https://www.yuque.com/an.king/essay/fz5xoc?singleDoc)
-### [分布式锁]()
+### 分布式锁
 -   [理论与最佳实践（14726字）](https://www.yuque.com/an.king/essay/miki0l457ou3rit2?singleDoc)
-### [分布式事务]()
+### 分布式事务
 -   [最大努力通知型（2693字）](https://www.yuque.com/an.king/essay/yk550cfzltggqbta?singleDoc)
