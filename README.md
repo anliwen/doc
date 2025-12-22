@@ -72,3 +72,7 @@
 -   [理论与最佳实践（14726字）](https://www.yuque.com/an.king/essay/miki0l457ou3rit2?singleDoc)
 ### 分布式事务
 -   [最大努力通知型（2693字）](https://www.yuque.com/an.king/essay/yk550cfzltggqbta?singleDoc)
+
+## 高可用、高并发、高性能
+### 高可用
+-   [Redisson令牌桶限流原理（1794字）](https://www.yuque.com/an.king/essay/rswen4ff79is22hg?singleDoc)
